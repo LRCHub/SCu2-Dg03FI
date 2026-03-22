@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バッドビートベイビー",
+  "base_artist": "La prière",
+  "createdAt": "2026-03-22T11:20:14.577655Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バッドビートベイビー",
+      "artist": "La prière",
+      "has_synced": false,
+      "path": "select/pl_01_バッドビートベイビー_La_prière.txt"
+    }
+  ]
+}
